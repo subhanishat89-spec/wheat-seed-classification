@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1-score,AUC,Training Time (sec),Testing Time (sec)
+0.47619047619047616,0.55,0.48,0.48,0.4965853528911564,1036.795061826706,9.897425651550293
